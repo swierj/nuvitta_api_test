@@ -7,6 +7,7 @@
     "imgAlt1": "single_product_pl.jpg",
     "imgAlt2": "single_product_pl.jpg",
     "imgAlt3": "single_product_pl.jpg",
+    "bestsell": true,
     "prodDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
     "prodDirec": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
     "prodIngr": ["ingredient1", "ingredient2", "ingredient3"]
