@@ -7,6 +7,32 @@
     "imgAlt1": "https://swierj.github.io/nuvitta_api_test/single_product_pl.jpg",
     "imgAlt2": "https://swierj.github.io/nuvitta_api_test/productS_pl.png",
     "imgAlt3": "https://swierj.github.io/nuvitta_api_test/productS_pl.png",
+    "bestsell": false,
+    "prodDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "prodDirec": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "prodIngr": ["ingredient1", "ingredient2", "ingredient3"]
+  }
+  {
+    "id": 2,
+    "name": "test2",
+    "price": 4499,
+    "imgMain": "https://swierj.github.io/nuvitta_api_test/productS_pl.png",
+    "imgAlt1": "https://swierj.github.io/nuvitta_api_test/productS_pl.png",
+    "imgAlt2": "https://swierj.github.io/nuvitta_api_test/productS_pl.png",
+    "imgAlt3": "https://swierj.github.io/nuvitta_api_test/productS_pl.png",
+    "bestsell": true,
+    "prodDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "prodDirec": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "prodIngr": ["ingredient1", "ingredient2", "ingredient3"]
+  }
+  {
+    "id": 3,
+    "name": "test3",
+    "price": 1499,
+    "imgMain": "https://swierj.github.io/nuvitta_api_test/single_product_pl.jpg",
+    "imgAlt1": "https://swierj.github.io/nuvitta_api_test/single_product_pl.jpg",
+    "imgAlt2": "https://swierj.github.io/nuvitta_api_test/productS_pl.png",
+    "imgAlt3": "https://swierj.github.io/nuvitta_api_test/productS_pl.png",
     "bestsell": true,
     "prodDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
     "prodDirec": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
