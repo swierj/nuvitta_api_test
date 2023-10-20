@@ -14,7 +14,7 @@
   },
   {
     "id": 2,
-    "name": "test2",
+    "name": "test2 - Gift Bundle",
     "price": 4499,
     "imgMain": "https://swierj.github.io/nuvitta_api_test/productS_pl.png",
     "imgAlt1": "https://swierj.github.io/nuvitta_api_test/productS_pl.png",
@@ -27,8 +27,21 @@
   },
   {
     "id": 3,
-    "name": "test3",
+    "name": "test3 - Facial Cleanser",
     "price": 1499,
+    "imgMain": "https://swierj.github.io/nuvitta_api_test/single_product_pl.jpg",
+    "imgAlt1": "https://swierj.github.io/nuvitta_api_test/single_product_pl.jpg",
+    "imgAlt2": "https://swierj.github.io/nuvitta_api_test/productS_pl.png",
+    "imgAlt3": "https://swierj.github.io/nuvitta_api_test/productS_pl.png",
+    "bestsell": true,
+    "prodDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "prodDirec": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "prodIngr": ["ingredient1", "ingredient2", "ingredient3"]
+  },
+  {
+    "id": 4,
+    "name": "test4 - Hydrating Serum",
+    "price": 3999,
     "imgMain": "https://swierj.github.io/nuvitta_api_test/single_product_pl.jpg",
     "imgAlt1": "https://swierj.github.io/nuvitta_api_test/single_product_pl.jpg",
     "imgAlt2": "https://swierj.github.io/nuvitta_api_test/productS_pl.png",
