@@ -10,7 +10,7 @@
     "bestsell": false,
     "prodDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
     "prodDirec": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-    "prodIngr": ["ingredient1", "ingredient2", "ingredient3"]
+    "prodIngr": "ingredient1, ingredient2, ingredient3, ingredient4, ingredient5"
   },
   {
     "id": 2,
@@ -23,7 +23,7 @@
     "bestsell": true,
     "prodDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
     "prodDirec": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-    "prodIngr": ["ingredient1", "ingredient2", "ingredient3"]
+    "prodIngr": "ingredient1, ingredient2, ingredient3, ingredient4, ingredient5"
   },
   {
     "id": 3,
@@ -36,7 +36,7 @@
     "bestsell": true,
     "prodDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
     "prodDirec": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-    "prodIngr": ["ingredient1", "ingredient2", "ingredient3"]
+    "prodIngr": "ingredient1, ingredient2, ingredient3, ingredient4, ingredient5"
   },
   {
     "id": 4,
@@ -49,7 +49,7 @@
     "bestsell": true,
     "prodDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
     "prodDirec": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-    "prodIngr": ["ingredient1", "ingredient2", "ingredient3"]
+    "prodIngr": "ingredient1, ingredient2, ingredient3, ingredient4, ingredient5"
   },
   {
     "id": 5,
@@ -62,7 +62,7 @@
     "bestsell": false,
     "prodDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
     "prodDirec": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-    "prodIngr": ["ingredient1", "ingredient2", "ingredient3"]
+    "prodIngr": "ingredient1, ingredient2, ingredient3, ingredient4, ingredient5"
   },
   {
     "id": 6,
@@ -75,7 +75,7 @@
     "bestsell": false,
     "prodDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
     "prodDirec": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-    "prodIngr": ["ingredient1", "ingredient2", "ingredient3"]
+    "prodIngr": "ingredient1, ingredient2, ingredient3, ingredient4, ingredient5"
   },
   {
     "id": 7,
@@ -88,6 +88,6 @@
     "bestsell": false,
     "prodDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
     "prodDirec": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-    "prodIngr": ["ingredient1", "ingredient2", "ingredient3"]
+    "prodIngr": "ingredient1, ingredient2, ingredient3, ingredient4, ingredient5"
   }
 ]
