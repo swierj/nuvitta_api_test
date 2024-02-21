@@ -328,7 +328,7 @@
     "price": 2800,
     "price_id": "price_1OTOYJFBqgWEiPKzcgcw4JVl",
     "imgMain": "https://swierj.github.io/nuvitta_api_test/images/Retinol25Cream.png",
-    "bestsell": true,
+    "bestsell": false,
     "bundle": false,
     "category": "toners",
     "size":"1.7 fl. oz. / 50mL",
