@@ -6,7 +6,7 @@
     "price_id": "price_1OTOUyFBqgWEiPKzLbrQYLSN",
     "imgMain": "https://swierj.github.io/nuvitta_api_test/images/AHAExfoliatingCream.webp",
     "bestsell": true,
-    "bundle": true,
+    "bundle": false,
     "category": "exfoliants",
     "size": "4 fl. oz. / 120mL",
     "superIngr": ["Glycolic, Tartaric, and Malic Acids", "Jojoba Esters (Wax Beads)", "Organic Green Tea Leaf and Organic Bilberry Fruit Extracts", "Organic Shea Butter and Mango Butter", "Vitamin E"],
@@ -540,5 +540,25 @@
     "prodDirec": "Apply a small amount to clean damp skin as needed and massage into skin until absorbed. Can also be used on hair and as a night oil. External use only.",
     "prodIngr": "Jojoba (Simmondsia chinensis) Oil, Daikon (Raphanus) Seed Extract, * Chia (Salvia hispanica) Seed Oil, * Camellia (Camellia oleifera) Oil, Tomato (Solanum lycopersicum) Seed Oil, Caprylic/Capric Triglyceride, Cranberry (Vaccinium macrocarpon) Oil, Sunflower (Helianthus annuus) Oil, * Seabuckthorn (Hippophae rhamnoides) Berry, Jasmine Grandiflorum (Jasminum grandiflorum) Absolute, Rose (Rosa damascena) Absolute, Coenzyme Q10 (Ubidecarenone), Vitamin E (Tocopherol) Oil \n *Certified Organic Ingredients",
     "reviews":[[5, "Harper P", "This face oil leaves my skin so supple and hydrated. I can noticeably see improvement in my skin the morning after I put it on compared to when I don’t! It is my favorite oil, and it is always my go-to every night! It is not too heavy and thick like most oils, but instead is a perfect balance of lightness, making it great for oily skin types as well as dry.", "My go-to face oil I put on every night"]]
+  },
+  {
+    "id": 28,
+    "name": "Acne & Oily Skin Treatment Bundle",
+    "price": 2900,
+    "price_id": "price_1OTOZ4FBqgWEiPKzhs4qPi5Z",
+    "imgMain": "https://swierj.github.io/nuvitta_api_test/images/VitaminCSerum.webp",
+    "bestsell": false,
+    "bundle": true,
+    "category": "bundles",
+    "size":"1 fl. oz. / 30mL",
+    "bundleProducts":["AHA Exfoliating Cream", "AHA Facial Toner", "10% Niacinamide Serum", "Sensitive/Acne Skin Moisturizer"],
+    "prodHighlight":["The perfect serum for sun damaged skin.", "20% Vitamin C Serum with Hyaluronic Acid & Vitamin E.", "Gentle on sensitive skin.", "A plant-based antioxidant, ferulic acid neutralizes free radicals and enhances the antioxidant benefits of vitamins C and E."],
+    "keyFeatures":["98% Naturally Derived", "72% Organic", "Paraben-Free", "Phthalate-Free", "Made in the USA"],
+    "skinType": "Suitable for all skin types.",
+    "warnings": "For external use only. Do not ingest. Do not use on broken or damaged skin. Avoid contact with eyes. Flush eyes thoroughly with water if contact occurs. Keep out of reach of children. Discontinue use if signs of irritation or rash appear. Pregnant or lactating people or those with known medical conditions should consult with a physician prior to using product.",
+    "prodDesc": "This Vitamin C serum is a concentrated delivery system for the highest form of active, bio-available Vitamin C. This serum works wonders to repair the effects of sun damage, lighten sun and age spots, and smooth and brighten for more beautiful skin.",
+    "prodDirec": "Shake well and apply a small amount with fingertips to freshly cleansed and toned skin. Lightly pat on the face, neck and décolleté and avoid direct contact with eyes. Allow time to absorb before moisturizer application. External use only.",
+    "prodIngr": "Aqua (Deionized Water), Sodium Ascorbyl Phosphate (Vitamin C), Hamamelis Virginiana Water (Witch Hazel), Cassia Angustifolia Seed Polysaccharide (Plant Based Hyaluronic Acid), Dimethyl Sulfone (MSM), Tocopheryl Acetate (Vitamin E), Aloe Barbadensis (Aloe Vera) Leaf Juice, Ferulic Acid, Glycerin (Kosher, Vegetable), Simondsia Chinensis Oil (Organic Jojoba), Centella Asiatica (Organic Gotu Kola) Extract, Equisetum Arvense (Horsetail) Extract, Taraxacum Officinale (Dandelion) Extract, Geranium Maculatum (Wild Geranium) Extract, Arginine, Acrylates/C10-30 alkyl acrylate Crosspolymer, Phenoxyethanol, Ethylhexylglycerin.",
+    "reviews":[]
   }
 ]
